@@ -6,6 +6,9 @@ Redes Sociales
 
 ## Taller SummIT IA
 - Taller: 🔗 [bit.ly/taller-cloud-club-cl](https://bit.ly/taller-cloud-club-cl)
+  
+## Community Day
+![image](https://github.com/user-attachments/assets/fcfc1362-5997-476d-8422-b4414b5665e3)
    
 ![Screenshot from 2025-06-12 14-17-04](https://github.com/user-attachments/assets/0c1b7d12-debb-4cf2-9db1-eb7409b8e27c)
 
