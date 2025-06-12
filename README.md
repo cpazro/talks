@@ -5,7 +5,6 @@ Redes Sociales
 - ![image](https://github.com/CLorant/readme-social-icons/blob/main/small/filled/instagram.svg) [Instagram](https://www.instagram.com/cloudclubchile/)
 
 ## Taller SummIT IA
-- Taller: 🔗 [bit.ly/taller-cloud-club-cl](https://bit.ly/taller-cloud-club-cl)
 - https://catalog.us-east-1.prod.workshops.aws/workshops/ed533291-e036-4086-8bb6-23b135f71e5d/en-US
   
 ## Community Day
